@@ -42,7 +42,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b8acbead32fb72499358dca15294c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemy: {fileID: 11438276, guid: 8fb3eee97bc3d2b4983aa36ad69eaab6, type: 2}
+  enemy: {fileID: 411552, guid: 887efde3b56e9b341aa0fc0010c75367, type: 2}
 --- !u!114 &11435644
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -57,6 +57,8 @@ MonoBehaviour:
   stage: stage1
   AttackTower: {fileID: 11495120, guid: 7d3c2b59fe25e6d4892f2db5d0b485ef, type: 2}
   BuffTower: {fileID: 11495120, guid: 7d3c2b59fe25e6d4892f2db5d0b485ef, type: 2}
+  message: {fileID: 0}
+  gameState: 0
 --- !u!114 &11440716
 MonoBehaviour:
   m_ObjectHideFlags: 1
